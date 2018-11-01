@@ -1,1 +1,1 @@
-# WaggleReactNative
+# Base Project Structure React Native
